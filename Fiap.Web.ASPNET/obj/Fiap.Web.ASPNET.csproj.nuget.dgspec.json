@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wagne\\source\\repos\\Fiap.Web.ASPNET\\FIAP\\FIAP.csproj": {}
+    "C:\\Users\\wagne\\source\\repos\\Fiap.Web.ASPNET\\Fiap.Web.ASPNET\\Fiap.Web.ASPNET.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wagne\\source\\repos\\Fiap.Web.ASPNET\\FIAP\\FIAP.csproj": {
+    "C:\\Users\\wagne\\source\\repos\\Fiap.Web.ASPNET\\Fiap.Web.ASPNET\\Fiap.Web.ASPNET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wagne\\source\\repos\\Fiap.Web.ASPNET\\FIAP\\FIAP.csproj",
-        "projectName": "FIAP",
-        "projectPath": "C:\\Users\\wagne\\source\\repos\\Fiap.Web.ASPNET\\FIAP\\FIAP.csproj",
+        "projectUniqueName": "C:\\Users\\wagne\\source\\repos\\Fiap.Web.ASPNET\\Fiap.Web.ASPNET\\Fiap.Web.ASPNET.csproj",
+        "projectName": "Fiap.Web.ASPNET",
+        "projectPath": "C:\\Users\\wagne\\source\\repos\\Fiap.Web.ASPNET\\Fiap.Web.ASPNET\\Fiap.Web.ASPNET.csproj",
         "packagesPath": "C:\\Users\\wagne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wagne\\source\\repos\\Fiap.Web.ASPNET\\FIAP\\obj\\",
+        "outputPath": "C:\\Users\\wagne\\source\\repos\\Fiap.Web.ASPNET\\Fiap.Web.ASPNET\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wagne\\AppData\\Roaming\\NuGet\\NuGet.Config",
